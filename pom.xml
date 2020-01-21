@@ -12,7 +12,7 @@
     <properties>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <org.springsecurity-version>5.1.2.RELEASE</org.springsecurity-version>
-        <org.springframework-version>5.1.6.RELEASE</org.springframework-version>
+        <org.springframework-version>5.2.0.RELEASE</org.springframework-version>
     </properties>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
