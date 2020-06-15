@@ -11,7 +11,7 @@
 
     <properties>
         <failOnMissingWebXml>false</failOnMissingWebXml>
-        <org.springsecurity-version>5.1.2.RELEASE</org.springsecurity-version>
+        <org.springsecurity-version>5.3.3.RELEASE</org.springsecurity-version>
         <org.springframework-version>5.1.6.RELEASE</org.springframework-version>
     </properties>
     <dependencies>
