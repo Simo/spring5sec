@@ -3,8 +3,8 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        echo 'oh oh oh'
-        sh './mvnw -b build'
+        echo 'ready to compile'
+        sh './mvnw -b compile'
       }
     }
 
