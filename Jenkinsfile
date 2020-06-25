@@ -4,7 +4,7 @@ pipeline {
     stage('build') {
       steps {
         echo 'ready to compile'
-        sh './mvnw -b compile'
+        sh './mvnw -b compile:compile'
       }
     }
 
